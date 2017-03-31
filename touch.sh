@@ -2,7 +2,7 @@ test
 
 ## Set job parameters
 
-inputfile=
+inputfile=dsdsdsds
 
 ## Job Name
 #BSUB -J ANSYS-Fluent
